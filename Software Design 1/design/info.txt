@@ -1,0 +1,39 @@
+Address:
+-Country:string
+-state:string
+-city:string
+-street Address:string
+-postalCode:string
+
+
+
+Person
+-first name:string
+-last name: string
+-DateOfBirth:int
+-phoneNo:string
+
+
+
+Student
+-internatinal - boolean
+-isPartTime():boolean
+-isOnProvation():boolean
+
+Professor
+- salary : float
+
+
+Course
+-name: string
+-code:string
+-minStudent:int
+-maxStudent:int
+-startdate
+-end:date
+
+
+Enrol
+-date:date
+-grade:float
+
